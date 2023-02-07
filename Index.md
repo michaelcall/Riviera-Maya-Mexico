@@ -1,10 +1,9 @@
 
 ---
 
-title: "User should receive a daily notification of any items that are received and not verified (Jake)"
+title: "Trip to riveria maya mexico"
 
 ---
-
 
 
 
@@ -12,45 +11,17 @@ title: "User should receive a daily notification of any items that are received 
 
 
 
-### Questions
-
-- None
-
-## Stake Holders
 
 
+### Passport
 
-## Time Estimate
-
-- Planning (1:00)
-- Database Manager (0:00)
-- Service (24:00)
-- Unit Tests (8:00)
-- View model (0:00)
-- UI (0:00)
-- UI Tests (1:00)
-
-TOTAL (34:00)
-
-## Database Manager
+-> passportstatus.state.gov. this site can be use to check passport progress. 
 
 
-## Service
-
-
-
-## Unit Tests
-
-
-## View Model
-
--> None
-
-## UI
-
-
-## UI Tests
-
-
+## Cancun
+## Playa del carmen
+## Tulum
+## Hotels and Airbnb
+## Transportation 
+## Money And budget 
 ## Log
-
