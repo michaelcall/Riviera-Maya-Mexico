@@ -21,6 +21,8 @@ title: "Trip to riveria maya mexico"
 ## Cancun
 ## Playa del carmen
 ## Tulum
+
+-> Gran Cenote. cenote near telumn. Popular spots to snorkel.
 ## Hotels and Airbnb
 ## Transportation 
 ## Money And budget 
