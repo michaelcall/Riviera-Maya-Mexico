@@ -26,6 +26,10 @@ title: "Trip to riveria maya mexico"
 
 -> Cenote Calavera. Small and good for scuba divers. Has a large whole at the top that people can jump in
 
+## Valladolid
+
+-> Cenote Valladolid Cenote Oxmán – Yucatan (*32 miles from playa del carmen, west towards merida) 
+
 ## Hotels and Airbnb
 ## Transportation 
 ## Money And budget 
