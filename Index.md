@@ -22,7 +22,10 @@ title: "Trip to riveria maya mexico"
 ## Playa del carmen
 ## Tulum
 
--> Gran Cenote. cenote near telumn. Popular spots to snorkel.
+-> Gran Cenote. cenote near telumn. Popular spots to snorkel. Pretty big, stairs
+
+-> Cenote Calavera. Small and good for scuba divers. Has a large whole at the top that people can jump in
+
 ## Hotels and Airbnb
 ## Transportation 
 ## Money And budget 
