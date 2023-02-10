@@ -17,6 +17,16 @@ title: "Trip to riveria maya mexico"
 
 -> passportstatus.state.gov. this site can be use to check passport progress. 
 
+## Activities
+
+-> Snorkeling. Cozmel and el cielo. Find the tour that has the best boat for kids. 
+
+-> kite lessong
+
+-> cenotes
+
+-> beach swimming
+
 ## Cenotes
 
 -> Gran Cenote. (*3.1 miles from telumn*). Popular spots to snorkel. Pretty big, stairs, wood desk, park, shade, under water cave, looks good for kids. 
