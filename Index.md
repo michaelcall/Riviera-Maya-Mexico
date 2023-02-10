@@ -27,6 +27,8 @@ title: "Trip to riveria maya mexico"
 
 -> Cenote Lol-ha (129 milies from playa del carmen. about 3 hours). this cenote is best for cliff jumping. Nice blue water, lots of stairs, has plateform to jump off, does not look very good for kids, very remote location
 
+-> Cenot Azul (15 miles 26 min from play). good for family. platforms, lots of people, close to highway. between tulum and playa del carmen. 
+
 ## Cancun
 ## Playa del carmen
 ## Tulum
