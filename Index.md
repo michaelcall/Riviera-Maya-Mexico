@@ -11,7 +11,11 @@ title: "Trip to riveria maya mexico"
 
 
 
+## Ferry 
 
+-> https://www.ultramarferry.com/es
+
+-> Puerto juarez 
 
 ### Passport
 
