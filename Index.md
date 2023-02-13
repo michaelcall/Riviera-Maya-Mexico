@@ -9,6 +9,15 @@ title: "Trip to riveria maya mexico"
 
 ## Summary
 
+## Notes
+-> airbnb tours
+
+-> addresses
+
+-> cenotes
+
+-> hotel 
+
 
 
 ## Ferry 
