@@ -43,6 +43,8 @@ title: "Trip to riveria maya mexico"
 
 -> Cenot Azul (15 miles 26 min from play). good for family. platforms, lots of people, close to highway. between tulum and playa del carmen. 
 
+-> Ruta De Los Cenotes (* closest to cancun)
+
 ## Cancun
 ## Playa del carmen
 ## Tulum
