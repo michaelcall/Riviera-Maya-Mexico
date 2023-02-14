@@ -55,6 +55,13 @@ title: "Trip to riveria maya mexico"
 -> Ruta De Los Cenotes (* closest to cancun)
 
 ## Cancun
+
+### Airbnb
+
+-> https://www.airbnb.com/rooms/plus/10565428?adults=2&children=1&infants=0&location=Cancun%2C%20Mexico&pets=0&check_in=2023-03-12&check_out=2023-03-17&federated_search_id=042f123b-779c-47f2-bef3-10549c7219fe&source_impression_id=p3_1676398781_8kJCCVnD24phd0fD
+
+
+
 ## Playa del carmen
 ## Tulum
 ## Valladolid
