@@ -9,6 +9,19 @@ title: "Trip to riveria maya mexico"
 
 ## Summary
 
+## Deals
+
+## Hotels
+
+## Airbnb 
+
+-> https://www.airbnb.com/rooms/771067753766951014?adults=5&location=Cancun%2C%20Mexico&check_in=2023-03-14&check_out=2023-03-19&federated_search_id=aabea8bc-9f31-4adf-9d31-d4474b3ca049&source_impression_id=p3_1676493729_xuI%2FkzHtvfvmrHbt
+
+-> https://www.airbnb.com/rooms/45639045?adults=5&location=Cancun%2C%20Mexico&check_in=2023-03-14&check_out=2023-03-19&federated_search_id=aabea8bc-9f31-4adf-9d31-d4474b3ca049&source_impression_id=p3_1676493746_0NqKTRflZCkyL8xz
+
+-> https://www.airbnb.com/rooms/47593164?adults=5&location=Cancun%2C%20Mexico&check_in=2023-03-14&check_out=2023-03-19&federated_search_id=aabea8bc-9f31-4adf-9d31-d4474b3ca049&source_impression_id=p3_1676493827_Wx1QGhax9VLNwHQm
+
+
 ## Notes
 -> airbnb tours
 
@@ -17,6 +30,10 @@ title: "Trip to riveria maya mexico"
 -> cenotes
 
 -> hotel 
+
+->  hotwire and priceline. good to get last minute deals
+
+-> 
 
 
 
