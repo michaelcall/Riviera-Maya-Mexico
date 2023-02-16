@@ -21,6 +21,8 @@ title: "Trip to riveria maya mexico"
 
 -> https://www.airbnb.com/rooms/47593164?adults=5&location=Cancun%2C%20Mexico&check_in=2023-03-14&check_out=2023-03-19&federated_search_id=aabea8bc-9f31-4adf-9d31-d4474b3ca049&source_impression_id=p3_1676493827_Wx1QGhax9VLNwHQm
 
+-> https://www.airbnb.com/rooms/plus/10565428?adults=2&children=1&infants=0&location=Cancun%2C%20Mexico&pets=0&check_in=2023-03-12&check_out=2023-03-17&federated_search_id=042f123b-779c-47f2-bef3-10549c7219fe&source_impression_id=p3_1676398781_8kJCCVnD24phd0fD
+
 
 ## Notes
 -> airbnb tours
@@ -35,7 +37,13 @@ title: "Trip to riveria maya mexico"
 
 -> 
 
+##. tours 
 
+-> https://www.almaldstours.us/
+
+-> https://www.mycancuntours.com/cancun/tours-experiences
+
+-> https://www.makeyourowntour.com/
 
 ## Ferry 
 
@@ -73,9 +81,8 @@ title: "Trip to riveria maya mexico"
 
 ## Cancun
 
-### Airbnb
 
--> https://www.airbnb.com/rooms/plus/10565428?adults=2&children=1&infants=0&location=Cancun%2C%20Mexico&pets=0&check_in=2023-03-12&check_out=2023-03-17&federated_search_id=042f123b-779c-47f2-bef3-10549c7219fe&source_impression_id=p3_1676398781_8kJCCVnD24phd0fD
+
 
 
 
