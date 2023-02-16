@@ -6,12 +6,13 @@ title: "Trip to riveria maya mexico"
 ---
 
 
-
 ## Summary
 
-## Deals
+## Transportation 
 
 ## Hotels
+
+-> hotwire and priceline. good to get last minute deals
 
 ## Airbnb 
 
@@ -24,20 +25,11 @@ title: "Trip to riveria maya mexico"
 -> https://www.airbnb.com/rooms/plus/10565428?adults=2&children=1&infants=0&location=Cancun%2C%20Mexico&pets=0&check_in=2023-03-12&check_out=2023-03-17&federated_search_id=042f123b-779c-47f2-bef3-10549c7219fe&source_impression_id=p3_1676398781_8kJCCVnD24phd0fD
 
 
-## Notes
--> airbnb tours
+## tours companies
 
--> addresses
+- I think the best way to find tours is google and use the filters. type the city and then the type of tour. Second, use trip advisor and find activities with the best review. thrid, airbnb with good reviews. 
 
--> cenotes
-
--> hotel 
-
-->  hotwire and priceline. good to get last minute deals
-
--> 
-
-##. tours 
+-> https://marinalabonita.com/
 
 -> https://www.almaldstours.us/
 
@@ -45,11 +37,13 @@ title: "Trip to riveria maya mexico"
 
 -> https://www.makeyourowntour.com/
 
+-> https://oceantoursmexico.com/
+
 ## Ferry 
 
 -> https://www.ultramarferry.com/es
 
--> Puerto juarez 
+-> Puerto juarez and playa del carmen
 
 ### Passport
 
@@ -64,6 +58,10 @@ title: "Trip to riveria maya mexico"
 -> cenotes
 
 -> beach swimming
+
+-> Xel-ha, Xacaret park, xplore, xavage
+
+-> ferries
 
 ## Cenotes
 
@@ -80,19 +78,9 @@ title: "Trip to riveria maya mexico"
 -> Ruta De Los Cenotes (* closest to cancun)
 
 ## Cancun
-
-
-
-
-
-
 ## Playa del carmen
 ## Tulum
 ## Valladolid
 
-
-
-## Hotels and Airbnb
-## Transportation 
 ## Money And budget 
 ## Log
